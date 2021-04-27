@@ -1,3 +1,3 @@
 ## Cristian Mosquera
 
-Mi primer repositorio
+Mi segundo repositorio repositorio de esta clase
